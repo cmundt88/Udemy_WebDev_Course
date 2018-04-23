@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome",
-            "url": "file:///Users/christophermundt/Documents/GitHub//WebDev-Lessons/First-Lesson/index.html",
+            "url": "file:///Users/christophermundt/Documents/GitHub//Udemy_WebDev_HTML/index.html",
             "webRoot": "${workspaceFolder}",
         }
     ]
